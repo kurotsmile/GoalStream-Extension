@@ -1,0 +1,37 @@
+#app_title{
+    background-image: linear-gradient(to right, #fa709a 0%, #fee140 100%);
+    width: 420px;
+    color: white;
+}
+
+::-webkit-scrollbar {
+    width: 5px;
+}
+
+::-webkit-scrollbar-track {
+    background: #f1f1f1;
+}
+
+::-webkit-scrollbar-thumb {
+    background: #cfcfcf;
+}
+
+::-webkit-scrollbar-thumb:hover {
+    background: #f2992b;
+}
+
+footer{
+    background-color: #f5f5f5;
+}
+
+.text-truncate-ellipsis {
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis; 
+    max-width: 165px;
+}
+
+#txt_show_password{
+    font-weight: bold;
+    background-image: linear-gradient(-225deg, #FF057C 0%, #8D0B93 50%, #321575 100%);
+}

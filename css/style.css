@@ -35,3 +35,19 @@ footer{
     font-weight: bold;
     background-image: linear-gradient(-225deg, #FF057C 0%, #8D0B93 50%, #321575 100%);
 }
+
+.nav-tabs{
+    font-size: 12px;
+    margin-top: 10px;
+}
+
+.nav-tabs .nav-item a{
+    color: white;
+}
+
+.card-header {
+    padding: 1px;
+    padding-left: 5px;
+    font-size: 15px;
+    font-weight: bold;
+}
